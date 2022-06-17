@@ -1,0 +1,8 @@
+{ "parameters":
+	[
+	  {"name":"width", "value":"20"},
+	  {"name":"height", "value":"10"},
+	  {"name":"weight", "value":"30"},
+	  {"name":"color",  "value":"red"}
+	]
+}
